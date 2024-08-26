@@ -39,7 +39,7 @@ The project consists of the following files:
 
 A screen recording demonstrating the progressive pixel animation and menu integration can be viewed here:
 
-- [Screen Recording](assets/screenrecording.mov)
+- View screenrecording.mp4 in assests.
 
 ## How the Grid System Works
 
